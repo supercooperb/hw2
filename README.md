@@ -1,1 +1,2 @@
 # hw2
+# When I changed the HSB file to RGB, the colors changed quite a bit. The HSB colors were more of a rainbow hue, but the RGB colors were more of a purple and blue gradient. I thought it was interesting when I made the variables into random gibberish, as the colors for RGB didn't really change. As long as I made the titles of the variables consistent, the html code recognized them and applied them to the correct funtions.
